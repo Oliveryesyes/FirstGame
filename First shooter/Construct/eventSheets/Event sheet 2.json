@@ -1,0 +1,27 @@
+{
+	"name": "Event sheet 2",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "StartButton",
+					"sid": 663956719162011
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 402451707281897,
+					"parameters": {
+						"layout": "Main screen"
+					}
+				}
+			],
+			"sid": 740900187312906
+		}
+	],
+	"sid": 312538477240696
+}

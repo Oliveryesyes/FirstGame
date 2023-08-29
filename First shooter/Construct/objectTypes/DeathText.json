@@ -1,0 +1,15 @@
+{
+	"name": "DeathText",
+	"plugin-id": "Text",
+	"sid": 542815353548656,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Fade",
+			"name": "Fade",
+			"sid": 161235049989343
+		}
+	],
+	"effectTypes": []
+}
